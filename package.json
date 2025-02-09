@@ -1,6 +1,6 @@
 {
   "name": "bem-modules",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "BEM classname transformer for CSS modules.",
   "keywords": [
     "css",
